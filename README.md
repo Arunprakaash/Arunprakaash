@@ -10,6 +10,8 @@
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=000&logoColor=AAA&style=flat-square)
 ![Unity](https://img.shields.io/static/v1?logo=unity&label=&message=Unity&color=000&logoColor=AAA&style=flat-square&link=)
 &nbsp;&nbsp;&nbsp;
+![Views](https://img.shields.io/static/v1?label=&message=views:&color=CDBCCD&style=flat-square)
+![stats](https://komarev.com/ghpvc/?username=Arunprakaash&label=profile+views&color=000000&style=flat-square)
 
 **Student** &#12299;_Pursuing Masters in Artificial Intelligence and Machine Learning_
 <br/>
