@@ -2,13 +2,13 @@
 
 ----
 
-![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
-![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
+![languages](https://img.shields.io/static/v1?label=&message=languages:&color=CDBCCD&style=flat-square)
+![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=000&logoColor=AAA&style=flat-square&link=)
 &nbsp;&nbsp;&nbsp;
-![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
-![godot](https://img.shields.io/static/v1?logo=godotengine&label=&message=Godot&color=36465D&logoColor=AAA&style=flat-square&link=)
-![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
-![Unity](https://img.shields.io/static/v1?logo=unity&label=&message=Unity&color=36465D&logoColor=AAA&style=flat-square&link=)
+![tools](https://img.shields.io/static/v1?label=&message=tools:&color=CDBCCD&style=flat-square)
+![godot](https://img.shields.io/static/v1?logo=godotengine&label=&message=Godot&color=000&logoColor=AAA&style=flat-square&link=)
+![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=000&logoColor=AAA&style=flat-square)
+![Unity](https://img.shields.io/static/v1?logo=unity&label=&message=Unity&color=000&logoColor=AAA&style=flat-square&link=)
 &nbsp;&nbsp;&nbsp;
 
 **Student** &#12299;_Pursuing Masters in Artificial Intelligence and Machine Learning_
