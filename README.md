@@ -2,15 +2,15 @@
 
 ----
 
-![languages](https://img.shields.io/static/v1?label=&message=languages:&color=CDBCCD&style=flat-square)
+![languages](https://img.shields.io/static/v1?label=&message=languages:&color=F0FFFF&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=000&logoColor=AAA&style=flat-square&link=)
 &nbsp;&nbsp;&nbsp;
-![tools](https://img.shields.io/static/v1?label=&message=tools:&color=CDBCCD&style=flat-square)
+![tools](https://img.shields.io/static/v1?label=&message=tools:&color=F0FFFF&style=flat-square)
 ![godot](https://img.shields.io/static/v1?logo=godotengine&label=&message=Godot&color=000&logoColor=AAA&style=flat-square&link=)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=000&logoColor=AAA&style=flat-square)
 ![Unity](https://img.shields.io/static/v1?logo=unity&label=&message=Unity&color=000&logoColor=AAA&style=flat-square&link=)
 &nbsp;&nbsp;&nbsp;
-![Views](https://img.shields.io/static/v1?label=&message=views:&color=CDBCCD&style=flat-square)
+![Views](https://img.shields.io/static/v1?label=&message=views:&color=F0FFFF&style=flat-square)
 ![stats](https://komarev.com/ghpvc/?username=Arunprakaash&label=profile+views&color=000000&style=flat-square)
 
 **Student** &#12299;_Pursuing Masters in Artificial Intelligence and Machine Learning_
