@@ -1,38 +1,21 @@
-### Hello, I'm Arun! &nbsp;&nbsp;<sup> &#12299; Learning Reinforcement Learning, Machine Learning, and Deep Learning. Occasionally, I develop games.</sup>
+# Hi there, I'm Arunprakaash 👋
 
-----
+I'm a student pursuing a Master's in Artificial Intelligence and Machine Learning, passionate about Reinforcement Learning, Machine Learning, and Deep Learning. I occasionally develop games using Godot and Unity, and I'm proficient in Python.
 
-<!-- Badges Section -->
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=&message=languages:&color=F0FFFF&style=flat-square" alt="Languages">
-  <img src="https://img.shields.io/static/v1?logo=python&label=&message=Python&color=000&logoColor=AAA&style=flat-square&link=" alt="Python">
-  <img src="https://img.shields.io/static/v1?label=&message=tools:&color=F0FFFF&style=flat-square" alt="Tools">
-  <img src="https://img.shields.io/static/v1?logo=godotengine&label=&message=Godot&color=000&logoColor=AAA&style=flat-square&link=" alt="Godot">
-  <img src="https://img.shields.io/static/v1?logo=git&label=&message=Git&color=000&logoColor=AAA&style=flat-square" alt="Git">
-  <img src="https://img.shields.io/static/v1?logo=unity&label=&message=Unity&color=000&logoColor=AAA&style=flat-square&link=" alt="Unity">
-  <img src="https://img.shields.io/static/v1?label=&message=views:&color=F0FFFF&style=flat-square" alt="Views">
-  <img src="https://komarev.com/ghpvc/?username=Arunprakaash&label=profile+views&color=000000&style=flat-square" alt="Profile Views">
-</p>
+🌱 I'm currently learning and growing in the world of AI and game development.
 
-I'm a student pursuing a Master's in Artificial Intelligence and Machine Learning. In addition to my studies, I have a passion for game design and development, creating 2D and 3D video games using Unity and Godot.
+### Connect with me:
 
-----
+[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/Arunprakaash/Arunprakaash/master/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/Arunprakaash/Arunprakaash/master/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ArtStation" width="22px" src="https://raw.githubusercontent.com/Arunprakaash/Arunprakaash/master/icons/artstation.svg" />][artstation]
 
-<!-- Social Media Icons Section without Underlines -->
-<p align="center">
-  <style>
-    .no-underline {
-      text-decoration: none !important;
-    }
-  </style>
-  
-  <a href="https://twitter.com/A_r_u_n_G" class="no-underline">
-    <img alt="Arun's Twitter" width="20" src="https://simpleicons.now.sh/twitter/495f7e" />&nbsp;&nbsp;&nbsp;
-  </a>
-  <a href="https://www.linkedin.com/in/arunprakaash" class="no-underline">
-    <img alt="Arun's LinkedIn" width="20" src="https://simpleicons.now.sh/linkedin/495f7e" />&nbsp;&nbsp;&nbsp;
-  </a>
-  <a href="https://arunprakaash.artstation.com" class="no-underline">
-    <img alt "Arun's Artstation" width="20" src="https://simpleicons.now.sh/artstation/495f7e" />&nbsp;&nbsp;&nbsp;
-  </a>
-</p>
+<br />
+
+### Profile Views
+
+![](https://komarev.com/ghpvc/?username=Arunprakaash)
+
+[twitter]: https://twitter.com/A_r_u_n_G
+[linkedin]: https://www.linkedin.com/in/arunprakaash
+[artstation]: https://arunprakaash.artstation.com
