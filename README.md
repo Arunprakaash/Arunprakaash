@@ -18,14 +18,15 @@ I'm a student pursuing a Master's in Artificial Intelligence and Machine Learnin
 
 ----
 
-<!-- Social Media Icons Section -->
+<!-- Social Media Icons Section with Spacing -->
 <p align="center">
   <a href="https://twitter.com/A_r_u_n_G">
-    <img alt="Arun's Twitter" width="20" src="https://simpleicons.now.sh/twitter/495f7e" />
+    <img alt="Arun's Twitter" width="20" src="https://simpleicons.now.sh/twitter/495f7e" />&nbsp;&nbsp;&nbsp;
   </a>
   <a href="https://www.linkedin.com/in/arunprakaash/">
-    <img alt="Arun's LinkedIn" width="20" src="https://simpleicons.now.sh/linkedin/495f7e" />
+    <img alt="Arun's LinkedIn" width="20" src="https://simpleicons.now.sh/linkedin/495f7e" />&nbsp;&nbsp;&nbsp;
   </a>
   <a href="https://arunprakaash.artstation.com/">
-    <img alt "Arun's Artstation" width="20" src="https://simpleicons.now.sh/artstation/495f7e" />
+    <img alt "Arun's Artstation" width="20" src="https://simpleicons.now.sh/artstation/495f7e" />&nbsp;&nbsp;&nbsp;
+  </a>
 </p>
