@@ -29,5 +29,3 @@
   <img align="left" alt="Arun's Artstation" width="20px" src="https://simpleicons.now.sh/artstation/495f7e" />
 </a>
 
-
-| &nbsp;&nbsp;&nbsp; Game  : [Math craze](https://play.google.com/store/apps/details?id=com.mathiletics.com.unity.template.mobile2D&gl=US&pli=1) &nbsp;&nbsp;&nbsp;
