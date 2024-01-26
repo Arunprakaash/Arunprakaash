@@ -1,4 +1,4 @@
-# Hi there, I'm Arunprakaash! 👋
+![header](header.png)
 
 I'm a student pursuing a Master's in Artificial Intelligence and Machine Learning, passionate about Reinforcement Learning, Machine Learning, and Deep Learning. I occasionally develop games using Godot and Unity, and I'm proficient in Python.
 
