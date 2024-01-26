@@ -6,9 +6,9 @@ I'm a student pursuing a Master's in Artificial Intelligence and Machine Learnin
 
 ### Connect with me:
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/A_r_u_n_G)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunprakaash)
-[![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://arunprakaash.artstation.com)
+[![Twitter](https://icons8.com/icon/phOKFKYpe00C/twitterx)](https://twitter.com/A_r_u_n_G)
+[![LinkedIn](https://icons8.com/icon/84888/linkedin)](https://www.linkedin.com/in/arunprakaash)
+[![Website](https://icons8.com/icon/3685/globe)](https://arunprakaash.github.io)
 
 <br />
 
