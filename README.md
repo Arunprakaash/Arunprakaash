@@ -1,6 +1,7 @@
 ![header](header.png)
 
-Hey! 👋 I'm Arun, a student diving into AI and ML. I enjoy creating games with Godot and Unity.
+a student diving into AI and ML. I enjoy creating games with Godot and Unity.
+
 🌱 Currently exploring the vast realms of AI and game development.
 
 ### Let's Connect:
