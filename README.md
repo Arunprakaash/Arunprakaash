@@ -5,10 +5,7 @@ Hey! 👋 I'm Arun, a student diving into AI and ML. I enjoy creating games with
 
 ### Let's Connect:
 
-- [Twitter](https://twitter.com/A_r_u_n_G)
-- [LinkedIn](https://www.linkedin.com/in/arunprakaash)
-- [Website](https://arunprakaash.github.io)
-
+[Twitter](https://twitter.com/A_r_u_n_G) | [LinkedIn](https://www.linkedin.com/in/arunprakaash) | [Website](https://arunprakaash.github.io)
 
 ### Profile Views
 
