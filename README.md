@@ -1,13 +1,16 @@
-![header](header.png)
+# hi! i am arun,
 
-a student diving into AI and ML. I enjoy creating games with Godot and Unity.
+## About Me
 
-🌱 Currently exploring the vast realms of AI and game development.
+Co-founder of [Sayvai.io](https://www.sayvai.io), an AI startup revolutionizing industries with AI/ML/RL technologies. Passionate about game development and exploring the potential of reinforcement learning.
 
-### Let's Connect:
+## Get in Touch
 
-[Twitter](https://twitter.com/A_r_u_n_G) | [LinkedIn](https://www.linkedin.com/in/arunprakaash) | [Website](https://arunprakaash.github.io)
+- LinkedIn: [Arunprakaash](https://www.linkedin.com/in/arunprakaash)
+- Twitter: [@A_r_u_n_G](https://twitter.com/A_r_u_n_G)
+- Website: [arunprakaash.github.io](https://arunprakaash.github.io/)
+- Sayvai.io: [sayvai.io](https://www.sayvai.io)
 
-### Profile Views
+## Profile Views
 
 ![](https://komarev.com/ghpvc/?username=Arunprakaash)
