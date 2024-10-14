@@ -1,5 +1,4 @@
-# Hi!
-I am an AI Engineer with a strong foundation in computer science and a passion for leveraging AI/ML/RL technologies to create innovative solutions. Also, a hobbyist game developer.
+I'm an AI engineer by day, building cool stuff with AI, machine learning, and reinforcement learning. Always eager to dive into challenges that keep me learning, growing, and happily stressed!
 
 
 ![](https://komarev.com/ghpvc/?username=Arunprakaash)
